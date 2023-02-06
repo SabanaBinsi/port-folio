@@ -5,12 +5,14 @@
 }
 
 body{
-
+background-color: thistle;
     background-size: cover;
 }
 header{
-    margin-left: 5%;
-    margin-right: 5%;
+    /* margin-left: 5%;
+    margin-right: 5%; */
+    background-color: bisque;
+    height: 70px;
 }
 header a{
 float: right;
@@ -160,8 +162,9 @@ form #msg{
 }
 
 footer{
-    height: 2px;
+    height: 50px;
     margin-top: 35px;
+    background-color: beige;
 }
 
 footer a{
